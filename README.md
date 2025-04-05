@@ -14,47 +14,28 @@ Este é um aplicativo simples feito em **React** para calcular o **IMC (Índice 
 
 ## 🚀 Como rodar o projeto
 
-### 1. Clone o repositório
+### 1. Acesse a pasta do projeto
 
-```bash
-git clone https://github.com/jhonatanthiago/imc-app.git
-2. Acesse a pasta do projeto
-bash
-Copiar
-Editar
 cd imc-app
-3. Instale as dependências
-bash
-Copiar
-Editar
+### 3. Instale as dependências
 npm install
-4. Rode o app
-bash
-Copiar
-Editar
+### 4. Rode o app
 npm start
+
 ✨ Tecnologias utilizadas
 React
-
-Tailwind CSS
-
-Estilo responsivo e fundo escuro
+CSS
+Javascript
 
 🧠 Como funciona
 O usuário insere o peso e a altura.
 
 O app calcula o IMC com a fórmula:
 
-ini
-Copiar
-Editar
 IMC = peso / (altura * altura)
+
 O resultado é exibido junto com a classificação do IMC:
-
 Abaixo do peso
-
 Peso ideal
-
 Sobrepeso
-
-Obesidade grau I, II ou III
+Obesidade grau I, II ou III.
