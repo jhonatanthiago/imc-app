@@ -8,7 +8,7 @@ Este é um aplicativo simples feito em **React** para calcular o **IMC (Índice 
 
 ## 📸 Demonstração
 
-![App IMC](./IMG/imc-app-demo.jpg)
+![App IMC](./IMG/teste-imc.jpg)
 
 ---
 
